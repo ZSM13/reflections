@@ -3,3 +3,6 @@ A: a .git file is created. otherwise versions aren't tracked.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 A: it's not new data, it's a list of what you're going to comit 
+
+How can you use the staging area to make sure you have one commit per logical change?
+A:add lots of stuff to the staging area and only commit it when it make sense?
