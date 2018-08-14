@@ -16,5 +16,7 @@ A: you can see where branches happen
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A: all the changes from both are incorporated. We show it rejoining because it does. 
 
-
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A: cons- more work
+Pros- git wouldn't be able to reoslve conflicts intelligently 
 
