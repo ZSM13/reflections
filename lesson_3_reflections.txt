@@ -16,3 +16,6 @@ A: You can work out conflicts for when it's time to merge with master
 
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: You could send code back and forth. Understanding the history of changes and controling the current version would be harder. But you wouldn't need to learn git.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+experimental changes in separate branches. takes more time to merge it in to master, but won't muck up a group's work
