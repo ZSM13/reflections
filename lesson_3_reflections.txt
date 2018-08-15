@@ -9,3 +9,10 @@ Describe the differences between forks, clones, and branches. When would you use
 A: branch is a new development pathway of a repo. use it to develope a new feature in isolation from master.
 clone isva copy of a repo in cluding all available commits. used to add to an alreasy existing repo.
 fork is a github-specific clone of another repo that automatically establishes a remote on github and pushes repo up. use to develop a repo that's on github. 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A: You can work out conflicts for when it's time to merge with master
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: You could send code back and forth. Understanding the history of changes and controling the current version would be harder. But you wouldn't need to learn git.
